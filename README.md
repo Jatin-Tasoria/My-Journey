@@ -24,11 +24,9 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
     │-- 🧾LICENSE
     │-- 📂Blogs/
     │   │-- 📁AWS/
-    │   │-- 📁DSA/
     │   │-- 📁Git-GitHub/
-    │   │-- 📁Java/
+    │   │-- 📁Java-Dsa
     │   │-- 📁Linux/
-
 
 
 ---

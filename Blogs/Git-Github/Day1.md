@@ -8,6 +8,8 @@ Here's a simple Analogy
 - **Git** -> *Coffee*(The actual Product)
 - **GitHub** is a *Shop* that sells the Product.
 
+---
+
 ##  ☕What exactly is Git?
 
 A Coffee that have various Versions.
@@ -15,6 +17,9 @@ A Coffee that have various Versions.
 You may have heard Git is a **Version Control System**, but what exactly is it.
 
 **Version Control System (VCS)** is a system that tracks and manages changes to a file.
+
+---
+
 ### 🔥Why it Matters
 - *Change Tracking*: Every modification to the codebase is recorded, including details about who made the 
   change, when it was made, and why.
@@ -30,11 +35,16 @@ You may have heard Git is a **Version Control System**, but what exactly is it.
 - *Backup and Recovery*: VCS acts as a safeguard, allowing recovery of previous versions in case of errors 
   or data loss.
 
+---
+
 ## 🏪What is GitHub?
 
 A Coffee shop that keep track of Coffee.
 
 GitHub is a Online Platform that helps a Developer store,share and manage his/her *Code  Or Project*.
+
+---
+
 ### 🌟Key Features:- 
 - *Repositories*: Store project files and their complete version history.
 
@@ -49,3 +59,5 @@ GitHub is a Online Platform that helps a Developer store,share and manage his/he
 - *GitHub Actions*: Automate workflows like CI/CD pipelines.
 
 - *Forking & Cloning*: Copy repositories for experimentation or contribution.
+
+---
