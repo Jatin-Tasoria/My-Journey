@@ -17,43 +17,23 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 
 ---
 
-## 📚 Blog Topics
-
-### 🔹 Cloud Computing (AWS)
-- IAM, EC2, S3, VPC
-- Real-world cloud architecture notes  
-- Hands-on labs and configurations  
-
-### 🔹 Java & DSA
-- Concept explanations  
-- Coding patterns  
-- DSA problem solutions  
-
-### 🔹 Linux & RHCSA
-- Essential commands  
-- System administration tasks  
-- Scripts and troubleshooting  
-
-### 🔹 Databases (DBMS / ADBMS)
-- Key concepts  
-- SQL queries  
-- Assignments and notes  
-
----
 
 ## 🗂 Blog Structure
-  /cloud
-  /java-dsa
-  /linux-rhcsa
-  /dbms
-  /projects
-  /daily-learning
+My-Journey/
+│-- README.md
+│-- LICENSE
+│-- BLogs/
+│     │-- AWS/
+│     │-- DSA/
+|     |-- Git-GitHub/
+|     |-- Java/
+|     |-- Linux/ 
 
 
 ---
 
 ## ✍️ Latest Blog Posts
-
+[Day 1 - Introductin to Git-GitHub](./Blogs/Git-GitHub/Day1.md)
 
 ---
 
