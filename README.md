@@ -19,7 +19,7 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 
 
 ## 🗂 Blog Structure
-
+```
 -- 📂My-Journey/
     │-- 🧾README.md
     │-- 🧾LICENSE
@@ -29,7 +29,7 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
     │   │-- 📁Git-GitHub/
     │   │-- 📁Java/
     │   │-- 📁Linux/
-
+```
 
 
 ---
