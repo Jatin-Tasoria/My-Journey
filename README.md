@@ -23,11 +23,12 @@ My-Journey/
 │-- README.md
 │-- LICENSE
 │-- Blogs/
-│     │-- AWS/
-│     │-- DSA/
-│     │-- Git-GitHub/
-│     │-- Java/
-│     │-- Linux/
+│   │-- AWS/
+│   │-- DSA/
+│   │-- Git-GitHub/
+│   │-- Java/
+│   │-- Linux/
+
 
 
 ---
