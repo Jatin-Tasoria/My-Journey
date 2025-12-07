@@ -24,7 +24,6 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
     │-- 🧾README.md
     │-- 🧾LICENSE
     │-- 📂Blogs/
-    │   │-- 📁AWS/
     │   │-- 📁Git-GitHub/
     │   │-- 📁Java-Dsa
     │   │-- 📁Linux/
@@ -33,8 +32,9 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 ---
 
 ## ✍️ Latest Blog Posts
-[Day 1 - Introductin to Git-GitHub](./Blogs/Git-Github/Day1.md)
-
+[Day 1 - Introduction to Git-GitHub](./Blogs/Git-Github/Day1.md)
+[Day 1 - Introduction to Java](./Blogs/Java-Dsa/Day1.md)
+[Day 1 - Introduction to Linux & File System](./Blogs/Linux/Day1.md)
 ---
 
 ## 🚀 How You Can Use This Blog
