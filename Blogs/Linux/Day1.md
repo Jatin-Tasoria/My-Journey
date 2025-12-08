@@ -10,7 +10,7 @@ A **Linux Distribution** (or *Distro* for short), on other hand is a complete op
 
 ---
 
-## Linux Distribution Families
+## 📌Linux Distribution Families
 
 Linux distributions are grouped into *Families* based on their **base system**.
 These includes:
@@ -24,7 +24,7 @@ These includes:
 
 - **Independent**: Unique approaches, specialized use cases.
 ---
-# Linux File System
+# 📂Linux File System
 
 Navigating files in Linux can be a hassle, so let's summarize each folder in the root directory.
 
