@@ -1,4 +1,4 @@
-# 🚀Day 3 - Conditional statements, escape sequences, type casting, logical operators
+# Conditional statements, escape sequences, type casting, logical operators
 Today was all about decision making, type casting  in java.
 
 ## Conditional statements
