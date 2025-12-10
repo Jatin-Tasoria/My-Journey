@@ -33,10 +33,10 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 ---
 
 ## ✍️ Latest Blog Posts
-[Day 2 - Arrays](./Blogs/DSA/Day2.md)
-[Day 1 - Branching and merging](./Blogs/Git-Github/Day3.md)
-[Day 2 - Conditional statements](./Blogs/Java-Dsa/Day3.md)
-[Day 1 - Process and system management](./Blogs/Linux/Day3.md)
+[Day 3 - Searching and Sorting](./Blogs/DSA/Day3.md)
+[Day 4 - Conflicts and Push](./Blogs/Git-Github/Day4.md)
+[Day 4 - Loops](./Blogs/Java-Dsa/Day4.md)
+
 ---
 
 ## 🚀 How You Can Use This Blog
