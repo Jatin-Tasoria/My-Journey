@@ -83,6 +83,14 @@ Output : 1 2 3 4 5
 
 4. Nested loop
    A loop inside of a loop
+```java
+for(int i = 0; i < 4; i++) {
+    for (int j = 0; j < i; j++) {
+        System.out.print("*");
+    }
+    System.out.println();
+}
+```
 
 ---
 
