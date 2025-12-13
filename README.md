@@ -33,9 +33,10 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 ---
 
 ## ✍️ Latest Blog Posts
-[Day 3 - Sorting](./Blogs/DSA/Day4.md)
-[Day 4 - Stash and revert](./Blogs/Git-Github/Day5.md)
-[Day 5 - Strings and stringBuilders](./Blogs/Java/Day5.md)
+
+- DSA [Day 5 - Recursion basics & Sorting](./Blogs/DSA/Day5.md)
+- Git [Day 4 - Stash and revert](./Blogs/Git-Github/Day5.md)
+- java [Day 6 - Arrays And ArrayList](./Blogs/Java/Day6.md)
 
 ---
 
