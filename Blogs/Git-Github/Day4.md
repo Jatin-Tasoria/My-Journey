@@ -30,7 +30,7 @@ git commit
 
 ## Checking previous version
 Earlier we said that git helps in managing previous versions of file, s now we are going to see how.
-- git checkout <Comment ID>
+- git checkout < Comment ID>
 
 > To check previous comments and IDs run : git log --oneline.
 > To go back to the latest commit : git checkout main

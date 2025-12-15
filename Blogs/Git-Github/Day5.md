@@ -14,7 +14,7 @@ Saving files without committing.
 Fixing an old mistake without removing it.
 Creates a new commit opposite of bad commit.
 
-- git revert <Commit-id>
+- git revert < Commit-id>
 
 ## Rebase
 Move your commits to a new base commit.
@@ -25,4 +25,4 @@ It rewrites commit history to make it clean and linear.
 ## Cherry-pick
 Copy a specific commit from one branch to another.
 
-- git cherry-pick <commit-id>
+- git cherry-pick < commit-id>
