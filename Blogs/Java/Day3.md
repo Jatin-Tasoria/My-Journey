@@ -108,6 +108,11 @@ int y = (int) x;  // loses decimal
 
 ---
 
+## Operator Precedence
+(), *, /, %, +, -, <, >, ==, &&, ||
+
+---
+
 ## Logical operator
 Allow us to check or modify more than one condition.
 

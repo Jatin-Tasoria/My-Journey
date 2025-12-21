@@ -30,6 +30,11 @@ Types of Variables:
 | char      | object    |
 | boolean   |
 
+### Type Range
+- int  → 4 bytes
+- double → 8 bytes
+- char → 2 bytes
+
 ### ⚙️Creating a variable
 The name of the variable should be meaningful.
 There are two steps to create a variable.

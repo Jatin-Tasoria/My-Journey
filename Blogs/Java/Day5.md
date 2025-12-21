@@ -93,6 +93,17 @@ System.out.println("Jatin".equalsIgnoreCase("jAtIn")); // true
 ```
 ---
 
+## `--` vs `equals()`
+```java
+String a = "Java";
+String b = new String("Java");
+
+a == b        // false
+a.equals(b)  // true
+```
+
+---
+
 ## string builder
 Q. Why we need it?
 - It is mutable (can be changed without creating new objects)

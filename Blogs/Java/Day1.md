@@ -64,6 +64,13 @@ Java makes it easy to build distributed and networked applications using feature
 
 ---
 
+## Java Editions
+- Java SE (Standard Edition) – Core Java (what we are learning)
+- Java EE / Jakarta EE – Enterprise apps
+- Java ME – Mobile & embedded systems
+
+---
+
 
 ## 🏗️ JDK vs JRE vs JVM
 
