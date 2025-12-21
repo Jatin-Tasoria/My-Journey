@@ -35,7 +35,7 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 ## ✍️ Latest Blog Posts
 
 - DSA [Day 5 - Recursion basics & Sorting](./Blogs/DSA/Day5.md)
-- java [Day 6 - Arrays And ArrayList](./Blogs/Java/Day6.md)
+- java [Day 7 - OOPs](./Blogs/Java/Day7.md)
 - Linux [Day 6 - Logs, boot and Troubleshooting](./Blogs/Linux/Day6.md)
 
 ---
