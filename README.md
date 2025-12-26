@@ -34,9 +34,9 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 
 ## ✍️ Latest Blog Posts
 
-- DSA [Day 7 -Strings & Hashing](./Blogs/DSA/Day5.md)
-- Java [Day 7 - OOPs](./Blogs/Java/Day7.md)
-- Linux [Day 7 - Bash Scripting & Automation](./Blogs/Linux/Day6.md)
+- DSA [Day 8 - Prefix Sum & Sliding Window](./Blogs/DSA/Day8.md)
+- Java [Day 8 - Static & Encapsulation](./Blogs/Java/Day8.md)
+- Linux [Day 7 - Bash Scripting & Automation](./Blogs/Linux/Day7.md)
 
 ---
 
