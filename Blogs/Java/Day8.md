@@ -1,7 +1,7 @@
 # Static, Encapsulation & Access Modifiers
 
 ## Static
-A `static` variable makes a variable or a method belng to the `class` rather than any specific object.
+A `static` variable makes a variable or a method belong to the `class` rather than any specific object.
 
 ```java
 class Student {
