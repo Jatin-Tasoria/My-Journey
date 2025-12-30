@@ -35,7 +35,7 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 ## ✍️ Latest Blog Posts
 
 - DSA [Day 8 - Prefix Sum & Sliding Window](./Blogs/DSA/Day8.md)
-- Java [Day 9 - Inheritance](./Blogs/Java/Day9.md)
+- Java [Day 10 - PolyMorphism](./Blogs/Java/Day10.md)
 - Linux [Day 8 - Security & Hardening](./Blogs/Linux/Day8.md)
 
 ---
