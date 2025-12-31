@@ -24,4 +24,4 @@ in professional software development.
 
 ---
 
-⭐ *This repository reflects consistent learning, hands-on practice, and real-world Linux workflows.*
+⭐ *This repository reflects consistent learning, hands-on practice, and real-world Git workflows.*

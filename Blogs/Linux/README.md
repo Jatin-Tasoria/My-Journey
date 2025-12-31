@@ -17,7 +17,7 @@ required for **Cloud (AWS), DevOps, and real-world server management**.
 - [Day 8: Security & Hardening (SSH, Firewall, SELinux)](Day8.md)
 
 >After Completing Linux Proceed to Networking
-[Networking](../Networking/Day1.md)
+[Networking](../Networking/Day9.md)
 
 ---
 
