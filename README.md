@@ -28,6 +28,7 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
     │   │-- 📁Git-GitHub/
     │   │-- 📁Java/
     │   │-- 📁Linux/
+    │   │-- 📁Networking/ 
 ```
 
 ---
@@ -36,13 +37,14 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 
 - DSA [Day 8 - Prefix Sum & Sliding Window](./Blogs/DSA/Day8.md)
 - Java [Day 10 - PolyMorphism](./Blogs/Java/Day10.md)
-- Linux [Day 8 - Security & Hardening](./Blogs/Linux/Day8.md)
+- Networking [Day 9 - Introduction](./Blogs/Networking/Day9.md)
 
 ---
 
 ## ✅ Completed Blog
 
-- Git [Index](./Blogs/Git-Github/readme.md)
+- Git [Index](./Blogs/Git-Github/README.md)
+- Linux [Index](./Blogs/Linux/README.md)
 
 ---
 
