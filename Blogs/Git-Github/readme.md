@@ -12,6 +12,7 @@ covering concepts from basic to advanced, real world workflow.
 - [Day 6: Forks, Pull Requests & Protection Rules](Day6.md)
 - [Day 7: Best practices and Ral-world Workflow](Day7.md)
 
+
 ## Tools Used
 - Git (Version Control System)
 - GitHub (Remote Repository & Collaboration)
@@ -20,3 +21,7 @@ covering concepts from basic to advanced, real world workflow.
 These notes document my hands-on practice and understanding of Git and GitHub,
 with a focus on real-world workflows, collaboration, and best practices used
 in professional software development.
+
+---
+
+⭐ *This repository reflects consistent learning, hands-on practice, and real-world Linux workflows.*
