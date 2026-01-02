@@ -36,7 +36,7 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 ## ✍️ Latest Blog Posts
 
 - DSA [Day 8 - Prefix Sum & Sliding Window](./Blogs/DSA/Day8.md)
-- Java [Day 11 - Abstraction ](./Blogs/Java/Day10.md)
+- Java [Day 12 - Interfaces](./Blogs/Java/Day12.md)
 - Networking [Day 9 - Introduction](./Blogs/Networking/Day9.md)
 
 >Note: I have stopped DSA at Day 8 because I am giving each topic a 2 day prep.
