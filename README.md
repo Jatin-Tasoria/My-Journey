@@ -37,7 +37,7 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 
 - DSA [Day 8 - Prefix Sum & Sliding Window](./Blogs/DSA/Day8.md)
 - Java [Day 12 - Interfaces](./Blogs/Java/Day12.md)
-- Networking [Day 9 - Introduction](./Blogs/Networking/Day9.md)
+- Networking [Day 10 - NAT, DNS, DHCP & AWS Mapping](./Blogs/Networking/Day10.md)
 
 >Note: I have stopped DSA at Day 8 because I am giving each topic a 2 day prep.
 ---
