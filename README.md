@@ -39,7 +39,6 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 - Java [Day 13 - Exception Handling](./Blogs/Java/Day13.md)
 - Networking [Day 11 - AWS VPC](./Blogs/Networking/Day11.md)
 
->Note: I have stopped DSA at Day 8 because I am giving each topic a 2 day prep.
 ---
 
 ## ✅ Completed Blog
