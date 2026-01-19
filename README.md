@@ -36,7 +36,7 @@ So this blog tracks my daily/weekly progress as I grow into a **Cloud Engineer**
 ## ✍️ Latest Blog Posts
 
 - DSA [Day 8 - Prefix Sum & Sliding Window](./Blogs/DSA/Day08.md)
-- Java [Day 14 - Wrapper CLass](./Blogs/Java/Day14.md)
+- Java [Day 15 - Aggregation & composition](./Blogs/Java/Day15.md)
 - Networking [Day 11 - AWS VPC](./Blogs/Networking/Day11.md)
 
 ---
